@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Caron</h1>
 <h3 align="center">A programmer passionate about technology</h3>
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=david729-hub&show_icons=true&locale=en" alt="david729-hub" /></p>
 <!--
 **David729-hub/David729-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
